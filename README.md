@@ -39,9 +39,17 @@ Demo mode uses the sample prices in `tests/fixtures/` and a scripted assistant, 
 
 ## With live odds and Claude
 
-Copy `.env.example` to `.env` and set `ODDS_API_KEY` ([The Odds API](https://the-odds-api.com)) and
-`ANTHROPIC_API_KEY`, then run `python web/server.py` (or `python chat.py` in the terminal). Every request shows its
-cost, and each conversation has a spend cap.
+Live mode needs two API keys of your own, and both services are usage-based:
+
+| Service | What it's used for | Cost |
+|---|---|---|
+| [The Odds API](https://the-odds-api.com) (`ODDS_API_KEY`) | Live prices from the sportsbooks | Free tier: 500 credits/month. A typical question pulls 4 sports for about 12 credits (3 per sport); paid plans for regular use |
+| [Anthropic API](https://console.anthropic.com) (`ANTHROPIC_API_KEY`) | Claude, which runs the conversation | Pay as you go (prepaid credits). The app shows the cost of every reply |
+
+Copy `.env.example` to `.env`, add both keys, then run `python web/server.py` (or `python chat.py` in the
+terminal). Each conversation stops at a **$1.00 spend cap** by default (`SHARPBET_MAX_SPEND` for the web app,
+`--max-spend` for the terminal), odds are cached for 5 minutes per conversation, and `--dry-run` shows the
+odds-API credit cost before anything is pulled. **Demo mode needs neither key.**
 
 ```bash
 python scripts/live.py --book fanduel --bonus 200 --dry-run     # show the odds-API credit cost only
