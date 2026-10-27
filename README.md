@@ -27,15 +27,32 @@ and the stake to the cent, so that every possible outcome pays the same amount.
   tennis score lines, every final margin, every total) across 8 sportsbooks plus the Kalshi and Polymarket
   exchanges, each with its own settlement rules. See [research/](research/README.md).
 
+## Setup
+
+Requires **Python 3.10+** (check with `python3 --version`).
+
+```bash
+git clone https://github.com/karthik-121/sharpbet.git
+cd sharpbet
+python3 -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -e '.[dev,web]'        # add ,research for the arbitrage optimizers (numpy, scipy)
+python -m pytest -q                # 129 tests should pass
+```
+
+The math core uses only the standard library; the extras add pytest (`dev`), the Claude SDK and FastAPI
+(`web`), and numpy/scipy (`research`).
+
 ## Demo (no API keys needed)
 
 ```bash
-pip install -e '.[dev,web]'
 SHARPBET_DEMO=1 PORT=8001 python web/server.py      # then open http://127.0.0.1:8001
 ```
 
-Demo mode uses the sample prices in `tests/fixtures/` and a scripted assistant, so it costs nothing. Try
-"$200 bonus bet on fanduel", "50% boost on draftkings", "boosts", or "two 50% boosts or one 100% boost?".
+Demo mode uses the sample prices in `tests/fixtures/` and a scripted assistant, so it costs nothing. Click
+**Try sharpbet**, then try "$200 bonus bet on fanduel", "50% boost on draftkings", "boosts",
+"two 50% boosts or one 100% boost?" (click the rows to switch slips), or, after a bonus slip,
+"placed 1-4, 5 moved". Stop the server with Ctrl+C.
 
 ## With live odds and Claude
 
