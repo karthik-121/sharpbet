@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>sharpbet: exact bet slips for your sportsbook promos</title>
+  <meta name="description" content="Tell sharpbet about your profit boost or bonus bet. It scans live odds and gives you the exact bets to place, down to the cent.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/landing.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%238b5cf6'/><stop offset='1' stop-color='%2322d3ee'/></linearGradient></defs><rect width='32' height='32' rx='8' fill='url(%23g)'/><path d='M9 20l5-8 4 5 5-7' stroke='white' stroke-width='2.6' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="/">
+      <span class="logo" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M9 20l5-8 4 5 5-7"/></svg></span>
+      <span class="wordmark">sharpbet</span>
+      <span class="tag">beta</span>
+    </a>
+    <nav class="nav-links">
+      <a href="#how">How it works</a>
+      <a href="#features">What it does</a>
+      <a href="#faq">FAQ</a>
+      <a class="btn btn-small" href="/chat">Try sharpbet</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ---------------- hero ---------------- -->
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="dot"></span> Beta · Profit boosts · Bonus bets</p>
+        <h1>Turn sportsbook promos into <span class="grad">locked profit</span>.</h1>
+        <p class="lede">Tell sharpbet about your boost or bonus bet in plain English. It scans live odds across your books and gives you the exact bets to place, with every stake to the cent, even if you only use one sportsbook.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="/chat">Try sharpbet
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+          <a class="btn btn-ghost" href="#how">See how it works</a>
+        </div>
+        <p class="hero-note">Locks hold only if every bet is placed at the listed odds. 21+.</p>
+      </div>
+
+      <div class="hero-demo" aria-label="Example conversation">
+        <div class="demo-card">
+          <div class="demo-top"><span></span><span></span><span></span></div>
+          <div class="demo-body">
+            <div class="d-user">I have a $200 bonus bet on FanDuel. I can split it, no cash, today's games.</div>
+            <div class="d-bot">
+              <span class="d-avatar"><svg viewBox="0 0 32 32"><path d="M9 20l5-8 4 5 5-7"/></svg></span>
+              <div>
+                <p>Looking at Sun Sep 27: a 16-parlay grid on FanDuel locks <b>$162.26</b> from your $200 bonus, no cash needed. Exactly one ticket wins, whatever happens.</p>
+                <div class="d-slip">
+                  <div class="d-lock"><span class="d-label">Locked profit</span><span class="d-value">$162.26</span></div>
+                  <div class="d-chips"><span>No cash needed</span><span>FanDuel</span><span>81.1% of the bonus</span></div>
+                  <table class="d-table">
+                    <thead><tr><th>#</th><th>Jets @ Lions</th><th>Braves @ Marlins</th><th>Minnesota @ Washington</th><th>Vikings @ Bucs</th><th>Stake</th></tr></thead>
+                    <tbody>
+                      <tr><td>1</td><td>Over 48.5 <i>-102</i></td><td>Braves -1.5 <i>-133</i></td><td>Minnesota +11.5 <i>-172</i></td><td>Over 42.5 <i>+160</i></td><td class="m">$12.25</td></tr>
+                      <tr><td>2</td><td>Over 48.5 <i>-102</i></td><td>Braves -1.5 <i>-133</i></td><td>Minnesota +11.5 <i>-172</i></td><td>Under 42.5 <i>-182</i></td><td class="m">$21.66</td></tr>
+                      <tr><td>3</td><td>Over 48.5 <i>-102</i></td><td>Braves -1.5 <i>-133</i></td><td>Washington -11.5 <i>+151</i></td><td>Over 42.5 <i>+160</i></td><td class="m">$7.50</td></tr>
+                      <tr class="fade"><td>…</td><td colspan="5">13 more tickets, each paying ~$162</td></tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <p class="demo-caption">Computed by sharpbet from the repo's sample (synthetic) prices. With an API key it uses live odds.</p>
+      </div>
+    </section>
+
+    <!-- ---------------- how it works ---------------- -->
+    <section class="section" id="how">
+      <p class="kicker">How it works</p>
+      <h2>Three steps, one conversation.</h2>
+      <div class="steps">
+        <div class="step">
+          <span class="num">1</span>
+          <h3>Tell it your promo</h3>
+          <p>"50% boost on DraftKings, max $250." It asks only for what it needs: your cash, your books, and when the games should be.</p>
+        </div>
+        <div class="step">
+          <span class="num">2</span>
+          <h3>It scans live odds</h3>
+          <p>It checks every eligible market across your books, and every number comes from code, never from the AI guessing.</p>
+        </div>
+        <div class="step">
+          <span class="num">3</span>
+          <h3>Place the exact slip</h3>
+          <p>Every bet: book, stake to the cent, each leg's odds and game time. Copy buttons, warnings, and the locked result.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ---------------- features ---------------- -->
+    <section class="section" id="features">
+      <p class="kicker">What it does</p>
+      <h2>The promo math, done for you.</h2>
+      <div class="features">
+        <div class="feature">
+          <div class="f-icon"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></div>
+          <h3>Bonus bets at one book</h3>
+          <p>Splits your bonus across parlays that cover every outcome, so exactly one ticket wins. About 80% back, with no cash and no second sportsbook.</p>
+        </div>
+        <div class="feature">
+          <div class="f-icon"><svg viewBox="0 0 24 24"><path d="M13 3L4 14h7l-1 7 9-11h-7l1-7z"/></svg></div>
+          <h3>Profit boost locks</h3>
+          <p>Finds the market where your boost plus a hedge locks the most, at one book or across your books, within the cash you want to use.</p>
+        </div>
+        <div class="feature">
+          <div class="f-icon"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M8 12l3 3 5-6"/></svg></div>
+          <h3>Exact tickets</h3>
+          <p>No calculators to fill in. Every stake to the cent, every leg's odds and date, in the order to place them.</p>
+        </div>
+        <div class="feature">
+          <div class="f-icon"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 8l7-5 7 5"/></svg></div>
+          <h3>Plans around your cash</h3>
+          <p>Shows the trade-off: "$45 locked needs $767; $31 needs $560." You pick; it re-runs in seconds.</p>
+        </div>
+        <div class="feature">
+          <div class="f-icon"><svg viewBox="0 0 24 24"><path d="M4 12a8 8 0 1 0 3-6.2M4 4v4h4"/></svg></div>
+          <h3>Follow-ups that just work</h3>
+          <p>"Skip baseball." "Only FanDuel." "Placed 1 through 8, ticket 9 moved." It re-solves the rest.</p>
+        </div>
+        <div class="feature">
+          <div class="f-icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 8v4l3 2"/></svg></div>
+          <h3>Checks your math</h3>
+          <p>Arbitrage calculators assume your stake comes back; a bonus bet's doesn't. It shows the real number.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ---------------- why not a calculator ---------------- -->
+    <section class="section compare-wrap">
+      <p class="kicker">Why not a calculator?</p>
+      <h2>Calculators give you a percentage. sharpbet gives you the tickets.</h2>
+      <div class="compare">
+        <div class="col">
+          <h3>Promo calculators</h3>
+          <ul>
+            <li>You find the markets and type in the odds</li>
+            <li>Usually need a second sportsbook</li>
+            <li>One method at a time</li>
+            <li>You work out each ticket yourself</li>
+          </ul>
+        </div>
+        <div class="col us">
+          <h3>sharpbet</h3>
+          <ul>
+            <li>Scans live markets and picks the best one</li>
+            <li>Works with one book or several</li>
+            <li>Compares grid, hedge and boost methods for you</li>
+            <li>Hands you every bet, ready to place</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ---------------- FAQ ---------------- -->
+    <section class="section" id="faq">
+      <p class="kicker">FAQ</p>
+      <h2>Questions, answered straight.</h2>
+      <div class="faq">
+        <details open>
+          <summary>Is sharpbet in beta?</summary>
+          <p>Yes. This is the beta version. Today it handles <b>profit boosts</b> and <b>bonus bets</b> on the main markets (moneylines, spreads and totals) for the NFL, college football, MLB and major soccer leagues, plus re-solving a grid if prices move while you place it and checking your own calculator's math.</p>
+          <p>More is coming soon, including: saved conversations and a bet log, remembering your books and bankroll, boost-assisted bonus hedges, +EV bets with bankroll sizing, more sports and markets (like NHL 3-way lines and player props), and low-hold and arbitrage scanning. Expect rough edges, and tell us when something looks off.</p>
+        </details>
+        <details>
+          <summary>Is the profit guaranteed?</summary>
+          <p>No. A locked profit holds only if every bet is placed at exactly the listed odds and nothing is voided. Odds move quickly, games can be postponed, and books can void bets or restrict promos. That's why every slip shows when its prices were pulled, and tells you to place everything in one sitting and stop if any price differs.</p>
+        </details>
+        <details>
+          <summary>Does sharpbet place bets for me?</summary>
+          <p>No. It never places bets and never touches your accounts. It tells you exactly what to place (book, stake, odds, game), and you place each bet yourself in your sportsbook's app.</p>
+        </details>
+        <details>
+          <summary>Where do the numbers come from?</summary>
+          <p>From code, not from the AI. Live odds come from an odds data provider, and every stake, payout and locked profit is calculated by sharpbet's own math. The AI handles the conversation and explains the result. If it ever states a number that didn't come from the calculations, the app flags it.</p>
+        </details>
+        <details>
+          <summary>How fresh are the odds?</summary>
+          <p>They're pulled live when you ask, from a feed that updates about once a minute. Each slip shows the time its prices were pulled. If the app shows a different price when you go to place a bet, stop and ask sharpbet to re-run.</p>
+        </details>
+        <details>
+          <summary>Which sportsbooks does it work with?</summary>
+          <p>The major US books in the odds feed, such as FanDuel, DraftKings, BetMGM and BetRivers. Coverage depends on the feed and can change; if there are no prices for your book, sharpbet tells you instead of guessing.</p>
+        </details>
+        <details>
+          <summary>How can a bonus bet lock profit at just one sportsbook?</summary>
+          <p>A bonus bet's stake isn't returned, so longer odds are worth more. sharpbet splits your bonus across parlays that together cover every outcome of a few games, sized so each pays about the same. Exactly one ticket wins, whatever happens. With good prices that turns roughly 76–80% of the bonus into cash, with no money of your own.</p>
+        </details>
+        <details>
+          <summary>Will my sportsbook limit my account?</summary>
+          <p>It might. Many books' terms restrict betting both sides of a game or hedging promos, and heavy promo use can lead to limits. sharpbet shows this warning on every slip where it applies; how you use your promos is your call.</p>
+        </details>
+        <details>
+          <summary>Is it legal?</summary>
+          <p>sharpbet is an information tool: it doesn't take bets or hold money. Sports betting laws vary by state, so only bet where it's legal for you, and you must be 21 or older. This isn't legal advice.</p>
+        </details>
+      </div>
+    </section>
+
+    <!-- ---------------- final CTA ---------------- -->
+    <section class="final">
+      <h2>Got a promo sitting in your app?</h2>
+      <p>Tell sharpbet about it and get the exact slip in under a minute.</p>
+      <a class="btn btn-primary" href="/chat">Try sharpbet
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </section>
+
+    <!-- ---------------- fine print ---------------- -->
+    <section class="fine" id="fine-print">
+      <h3>The fine print, in plain English</h3>
+      <ul>
+        <li><b>No result is guaranteed.</b> A locked profit holds only if every bet is placed at exactly the listed odds and nothing is voided. Odds move quickly, so place every bet in one sitting.</li>
+        <li><b>sharpbet never places bets</b> and never touches your accounts. It tells you what to place; you place it.</li>
+        <li><b>Sportsbooks may restrict promo hedging</b> or betting both sides, and may limit accounts. Check your book's terms.</li>
+        <li><b>Not affiliated with any sportsbook.</b> Odds come from a licensed odds data provider.</li>
+        <li><b>21+ only.</b> Gambling problem? Call <b>1-800-GAMBLER</b>, text 800GAM, or chat at 1800gamblerchat.org.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>© 2026 sharpbet · beta</span>
+    <span>21+ · No result is guaranteed · 1-800-GAMBLER</span>
+  </footer>
+</body>
+</html>

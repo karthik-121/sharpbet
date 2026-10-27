@@ -1,0 +1,58 @@
+{
+ "id": "9de33ce1013f2a3375dbded2c9fbc7d6",
+ "sport_key": "icehockey_nhl",
+ "sport_title": "NHL",
+ "commence_time": "2026-09-29T21:00:47Z",
+ "home_team": "Carolina Hurricanes",
+ "away_team": "Florida Panthers",
+ "bookmakers": [
+  {
+   "key": "draftkings",
+   "title": "DraftKings",
+   "markets": [
+    {
+     "key": "h2h_3_way",
+     "last_update": "2026-09-27T01:51:48Z",
+     "outcomes": [
+      {
+       "name": "Carolina Hurricanes",
+       "price": 2.77
+      },
+      {
+       "name": "Florida Panthers",
+       "price": 2.38
+      },
+      {
+       "name": "Draw",
+       "price": 3.62
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "fanduel",
+   "title": "FanDuel",
+   "markets": [
+    {
+     "key": "h2h_3_way",
+     "last_update": "2026-09-27T01:51:10Z",
+     "outcomes": [
+      {
+       "name": "Carolina Hurricanes",
+       "price": 2.7
+      },
+      {
+       "name": "Florida Panthers",
+       "price": 2.42
+      },
+      {
+       "name": "Draw",
+       "price": 3.59
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

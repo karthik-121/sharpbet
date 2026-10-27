@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>sharpbet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%238b5cf6'/><stop offset='1' stop-color='%2322d3ee'/></linearGradient></defs><rect width='32' height='32' rx='8' fill='url(%23g)'/><path d='M9 20l5-8 4 5 5-7' stroke='white' stroke-width='2.6' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" title="sharpbet home">
+      <span class="logo" aria-hidden="true">
+        <svg viewBox="0 0 32 32"><path d="M9 20l5-8 4 5 5-7" /></svg>
+      </span>
+      <span class="wordmark">sharpbet</span>
+      <span class="tag">beta</span>
+    </a>
+    <div class="top-actions">
+      <span class="cost-pill" id="costPill" title="API spend this conversation">$0.00</span>
+      <button class="ghost-btn" id="newChat" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
+        New chat
+      </button>
+    </div>
+  </header>
+
+  <main class="chat" id="chat">
+    <section class="empty" id="empty">
+      <div class="hero-mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32"><path d="M9 20l5-8 4 5 5-7" /></svg>
+      </div>
+      <h1>What promo are you working with?</h1>
+      <p class="sub">Tell me about a profit boost or a bonus bet. I'll find the bets that lock in profit using live odds, and give you the exact slip.</p>
+      <div class="suggestions">
+        <button class="suggestion" type="button" data-prompt="I have a 50% profit boost on DraftKings, max wager $250">
+          <span class="s-title">50% profit boost</span>
+          <span class="s-sub">DraftKings, max wager $250</span>
+        </button>
+        <button class="suggestion" type="button" data-prompt="I have a $200 bonus bet on FanDuel">
+          <span class="s-title">$200 bonus bet</span>
+          <span class="s-sub">FanDuel, split across parlays</span>
+        </button>
+        <button class="suggestion" type="button" data-prompt="My arb calculator says I get 87% covering +150, +220 and +190 with a bonus bet. Is that right?">
+          <span class="s-title">Check my math</span>
+          <span class="s-sub">Is my calculator right for a bonus bet?</span>
+        </button>
+        <button class="suggestion" type="button" data-prompt="How does converting a bonus bet work?">
+          <span class="s-title">How does this work?</span>
+          <span class="s-sub">Bonus bets, boosts and locks</span>
+        </button>
+      </div>
+    </section>
+    <div class="messages" id="messages" aria-live="polite"></div>
+  </main>
+
+  <footer class="composer-wrap">
+    <form class="composer" id="composer">
+      <textarea id="input" rows="1" placeholder="Describe your promo…" autocomplete="off"></textarea>
+      <button class="send" id="send" type="submit" aria-label="Send">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </button>
+    </form>
+    <p class="legal">21+ only. No result is guaranteed: locks hold only if every bet is placed at the listed odds. sharpbet never places bets. Gambling problem? Call 1-800-GAMBLER.</p>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

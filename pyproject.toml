@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sharpbet"
+version = "0.1.0"
+description = "Conversational sharp-betting assistant: exact bet slips for bonus bets and profit boosts."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+chat = ["anthropic>=1.8"]   # the LLM layer (sharpbet.assistant, chat.py)
+web = ["anthropic>=1.8", "fastapi>=0.110", "uvicorn>=0.30", "httpx"]   # web/server.py (httpx: tests)
+research = ["numpy", "scipy"]   # research/ optimizers (linear programs)
+
+[tool.setuptools.packages.find]
+include = ["sharpbet*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

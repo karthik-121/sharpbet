@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.egg-info/
+build/
+
+# local preview-pane config (absolute paths)
+.claude/launch.json
+
+# research script outputs (odds data is not redistributed)
+research/mlb_*/
+research/*.json

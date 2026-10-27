@@ -1,0 +1,4161 @@
+[
+ {
+  "id": "b225458a282e140c44c45651255f2f6c",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Buffalo Bills",
+  "away_team": "Los Angeles Chargers",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 3.18
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.35
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 6.83,
+        "point": -7.0
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.1,
+        "point": 7.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.99,
+        "point": 49.5
+       },
+       {
+        "name": "Under",
+        "price": 1.81,
+        "point": 49.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 3.15
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.37
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 7.4,
+        "point": -7.5
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.1,
+        "point": 7.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.22,
+        "point": 50.5
+       },
+       {
+        "name": "Under",
+        "price": 1.68,
+        "point": 50.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 3.26
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.4
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 7.27,
+        "point": -7.5
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.14,
+        "point": 7.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.18,
+        "point": 50.0
+       },
+       {
+        "name": "Under",
+        "price": 1.79,
+        "point": 50.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "613b8cd3a5fab58f7be4e3fd6f76223e",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Cleveland Browns",
+  "away_team": "Carolina Panthers",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.39
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 3.05
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.49,
+        "point": -1.5
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.67,
+        "point": 1.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.43,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 2.86,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.42
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.88
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.55,
+        "point": -2.5
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.47,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.36,
+        "point": 41.5
+       },
+       {
+        "name": "Under",
+        "price": 3.2,
+        "point": 41.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.44
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 3.08
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.62,
+        "point": -2.5
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 2.51,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.44,
+        "point": 42.0
+       },
+       {
+        "name": "Under",
+        "price": 3.1,
+        "point": 42.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "71123be049587b6facce3a20c53e5d09",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Pittsburgh Steelers",
+  "away_team": "Cincinnati Bengals",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.46
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.69
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.76,
+        "point": -3.5
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.05,
+        "point": 3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.85,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 1.94,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.47
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.72
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.76,
+        "point": -3.5
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.09,
+        "point": 3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.86,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 1.96,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.52
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.78
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 1.86,
+        "point": -3.5
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.09,
+        "point": 3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.01,
+        "point": 43.0
+       },
+       {
+        "name": "Under",
+        "price": 1.93,
+        "point": 43.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "07f552badfa8a565d1be22123713e4da",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "New York Jets",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.82
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.47
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 5.28,
+        "point": -6.5
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.18,
+        "point": 6.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.97,
+        "point": 48.5
+       },
+       {
+        "name": "Under",
+        "price": 1.89,
+        "point": 48.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.82
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.48
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 5.1,
+        "point": -6.5
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.2,
+        "point": 6.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.98,
+        "point": 48.5
+       },
+       {
+        "name": "Under",
+        "price": 1.9,
+        "point": 48.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 2.81
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.49
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": 5.68,
+        "point": -7.0
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.18,
+        "point": 7.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.97,
+        "point": 48.5
+       },
+       {
+        "name": "Under",
+        "price": 1.93,
+        "point": 48.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "17a730b7d399feeab6a78c30767c29d2",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Indianapolis Colts",
+  "away_team": "Houston Texans",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 1.53
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 2.49
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 1.67,
+        "point": -1.5
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 2.19,
+        "point": 1.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.58,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 2.35,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 1.55
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 2.49
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 1.68,
+        "point": -1.5
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 2.22,
+        "point": 1.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.59,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 2.4,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 1.61
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 2.54
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 1.77,
+        "point": -2.0
+       },
+       {
+        "name": "Indianapolis Colts",
+        "price": 2.21,
+        "point": 2.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.61,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 2.53,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1f3cfd315a24d1a7dd5859a8e6b88e18",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Jacksonville Jaguars",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.61
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.41
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.92,
+        "point": -3.0
+       },
+       {
+        "name": "New England Patriots",
+        "price": 1.94,
+        "point": 3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.73,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": 1.49,
+        "point": 46.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.57
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.39
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.78,
+        "point": -2.5
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.02,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.44,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 1.54,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.65
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.39
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.89,
+        "point": -2.5
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.02,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.51,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 1.6,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "0339a0e41bcee12820eb3e64bb5fadb4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Miami Dolphins",
+  "away_team": "Kansas City Chiefs",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.72
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 2.1
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 3.54,
+        "point": -10.0
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 1.29,
+        "point": 10.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.36,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 1.58,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.74
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 2.16
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 3.78,
+        "point": -10.5
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 1.29,
+        "point": 10.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.43,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 1.59,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.77
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 2.22
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 3.97,
+        "point": -10.5
+       },
+       {
+        "name": "Miami Dolphins",
+        "price": 1.31,
+        "point": 10.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.39,
+        "point": 45.0
+       },
+       {
+        "name": "Under",
+        "price": 1.68,
+        "point": 45.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "555afd4a27aaa392662881cffa8f2eef",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "New York Giants",
+  "away_team": "Tennessee Titans",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 1.39
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 3.11
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 1.54,
+        "point": -2.5
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 2.57,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.36,
+        "point": 37.5
+       },
+       {
+        "name": "Under",
+        "price": 3.3,
+        "point": 37.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 1.38
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 3.11
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 1.53,
+        "point": -2.5
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 2.55,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.35,
+        "point": 37.5
+       },
+       {
+        "name": "Under",
+        "price": 3.26,
+        "point": 37.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 1.43
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 3.1
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "New York Giants",
+        "price": 1.56,
+        "point": -2.5
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 2.61,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.47,
+        "point": 38.5
+       },
+       {
+        "name": "Under",
+        "price": 2.93,
+        "point": 38.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2a529c108305ffa049d8b6cfdbaa4d36",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Washington Commanders",
+  "away_team": "Seattle Seahawks",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 2.74
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.5
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 5.93,
+        "point": -7.5
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.16,
+        "point": 7.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.15,
+        "point": 40.5
+       },
+       {
+        "name": "Under",
+        "price": 1.76,
+        "point": 40.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 2.75
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.45
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 5.26,
+        "point": -7.5
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.16,
+        "point": 7.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.11,
+        "point": 40.5
+       },
+       {
+        "name": "Under",
+        "price": 1.73,
+        "point": 40.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 2.8
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.51
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Seattle Seahawks",
+        "price": 7.41,
+        "point": -9.5
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.13,
+        "point": 9.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.14,
+        "point": 40.5
+       },
+       {
+        "name": "Under",
+        "price": 1.82,
+        "point": 40.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "9d2b09e0f9b6dd5ce0d985894f4f98fa",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:05:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Arizona Cardinals",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.16
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.69
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 1.42,
+        "point": 7.5
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 2.84,
+        "point": -7.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.61,
+        "point": 47.5
+       },
+       {
+        "name": "Under",
+        "price": 2.29,
+        "point": 47.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.17
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.74
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 1.45,
+        "point": 7.5
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 2.88,
+        "point": -7.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.65,
+        "point": 47.5
+       },
+       {
+        "name": "Under",
+        "price": 2.33,
+        "point": 47.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 2.26
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.74
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 1.41,
+        "point": 8.5
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 3.24,
+        "point": -8.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.68,
+        "point": 47.5
+       },
+       {
+        "name": "Under",
+        "price": 2.38,
+        "point": 47.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "f1724dead3eab61546033032fc782375",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:05:00Z",
+  "home_team": "Tampa Bay Buccaneers",
+  "away_team": "Minnesota Vikings",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.76
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.46
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 3.13,
+        "point": -1.5
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.37,
+        "point": 1.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.51,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 1.54,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.71
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.51
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 3.09,
+        "point": -1.5
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.41,
+        "point": 1.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.6,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 1.55,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.77
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.51
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Minnesota Vikings",
+        "price": 3.25,
+        "point": -2.0
+       },
+       {
+        "name": "Tampa Bay Buccaneers",
+        "price": 1.4,
+        "point": 2.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.72,
+        "point": 43.0
+       },
+       {
+        "name": "Under",
+        "price": 1.52,
+        "point": 43.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "84cfca14efc21363fd605508404cf1ff",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:25:00Z",
+  "home_team": "Dallas Cowboys",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.09
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.74
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.62,
+        "point": -3.0
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.49,
+        "point": 3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 4.36,
+        "point": 53.5
+       },
+       {
+        "name": "Under",
+        "price": 1.21,
+        "point": 53.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.08
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.76
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.7,
+        "point": -3.5
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.48,
+        "point": 3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.74,
+        "point": 52.5
+       },
+       {
+        "name": "Under",
+        "price": 1.28,
+        "point": 52.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.15
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.79
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.79,
+        "point": -3.5
+       },
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.5,
+        "point": 3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 4.15,
+        "point": 53.0
+       },
+       {
+        "name": "Under",
+        "price": 1.28,
+        "point": 53.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2e523fcb0497aa689473e290eb2b97de",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:25:00Z",
+  "home_team": "New Orleans Saints",
+  "away_team": "Las Vegas Raiders",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.07
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.79
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.66,
+        "point": 3.5
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 2.27,
+        "point": -3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.15,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 1.38,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.04
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.79
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.71,
+        "point": 3.0
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 2.16,
+        "point": -3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.11,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 1.38,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 2.08
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 1.84
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.71,
+        "point": 3.5
+       },
+       {
+        "name": "New Orleans Saints",
+        "price": 2.28,
+        "point": -3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.32,
+        "point": 44.0
+       },
+       {
+        "name": "Under",
+        "price": 1.39,
+        "point": 44.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3bfd8bfb4b8e9a365a0877879b73b16b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-28T00:20:00Z",
+  "home_team": "Denver Broncos",
+  "away_team": "Los Angeles Rams",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 3.19
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.38
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.62,
+        "point": 2.5
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.52,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.67,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 2.28,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 3.22
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.37
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.58,
+        "point": 2.5
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.53,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.8,
+        "point": 44.5
+       },
+       {
+        "name": "Under",
+        "price": 2.06,
+        "point": 44.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 3.22
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.41
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.7,
+        "point": 2.5
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 1.54,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.74,
+        "point": 44.0
+       },
+       {
+        "name": "Under",
+        "price": 2.24,
+        "point": 44.0
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "47dc7baa254659f3beb2ed2b38c207b6",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-29T00:15:00Z",
+  "home_team": "Chicago Bears",
+  "away_team": "Philadelphia Eagles",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 2.03
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.8
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 1.66,
+        "point": 3.5
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 2.25,
+        "point": -3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.21,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 4.58,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 2.04
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.81
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 1.66,
+        "point": 3.5
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 2.28,
+        "point": -3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.22,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 4.51,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "pinnacle",
+    "title": "Pinnacle",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 2.07
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.87
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 1.71,
+        "point": 3.5
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 2.32,
+        "point": -3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.24,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 4.74,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d55cb69fed50a09170560b5b75d8de86",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-02T00:15:00Z",
+  "home_team": "Cleveland Browns",
+  "away_team": "Pittsburgh Steelers",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 2.02
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 1.8
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 1.66,
+        "point": 3.0
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.24,
+        "point": -3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.18,
+        "point": 38.5
+       },
+       {
+        "name": "Under",
+        "price": 4.88,
+        "point": 38.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 1.98
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 1.84
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 1.72,
+        "point": 2.5
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": 2.13,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.15,
+        "point": 37.5
+       },
+       {
+        "name": "Under",
+        "price": 5.53,
+        "point": 37.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c9d8ed8aa4889486eaf10a630138ede0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T13:30:00Z",
+  "home_team": "Washington Commanders",
+  "away_team": "Indianapolis Colts",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 3.2
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.38
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 5.26,
+        "point": -4.5
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.18,
+        "point": 4.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.46,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": 2.83,
+        "point": 46.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 3.31
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.33
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 5.28,
+        "point": -4.5
+       },
+       {
+        "name": "Washington Commanders",
+        "price": 1.16,
+        "point": 4.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.45,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": 2.76,
+        "point": 46.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "664e6bda5721dc63be16bcf7d962a436",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "New York Giants",
+  "away_team": "Arizona Cardinals",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 1.82
+       },
+       {
+        "name": "New York Giants",
+        "price": 2.03
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 1.57,
+        "point": 2.5
+       },
+       {
+        "name": "New York Giants",
+        "price": 2.47,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.17,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 1.37,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 1.8
+       },
+       {
+        "name": "New York Giants",
+        "price": 2.03
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 1.58,
+        "point": 2.5
+       },
+       {
+        "name": "New York Giants",
+        "price": 2.41,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.2,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 1.36,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "f01589b0e7e6dd4f4ac1220a1db81f53",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Baltimore Ravens",
+  "away_team": "Tennessee Titans",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.9
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.43
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 8.12,
+        "point": -10.5
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.08,
+        "point": 10.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.22,
+        "point": 44.5
+       },
+       {
+        "name": "Under",
+        "price": 1.68,
+        "point": 44.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 2.79
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.47
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": 9.45,
+        "point": -10.5
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 1.07,
+        "point": 10.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.28,
+        "point": 44.5
+       },
+       {
+        "name": "Under",
+        "price": 1.67,
+        "point": 44.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "573cc0ef39631a4f6673ec843a8bedd4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Buffalo Bills",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.62
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.31
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 2.3,
+        "point": -5.5
+       },
+       {
+        "name": "New England Patriots",
+        "price": 1.63,
+        "point": 5.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.41,
+        "point": 49.5
+       },
+       {
+        "name": "Under",
+        "price": 1.32,
+        "point": 49.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 1.6
+       },
+       {
+        "name": "New England Patriots",
+        "price": 2.33
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 2.24,
+        "point": -5.5
+       },
+       {
+        "name": "New England Patriots",
+        "price": 1.65,
+        "point": 5.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.61,
+        "point": 50.5
+       },
+       {
+        "name": "Under",
+        "price": 1.29,
+        "point": 50.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "164e6eb68f31bac190381903c3cccd31",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Chicago Bears",
+  "away_team": "New York Jets",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.13
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.39
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 4.01,
+        "point": -3.0
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.27,
+        "point": 3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.06,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 1.81,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 3.02
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.39
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 4.04,
+        "point": -3.5
+       },
+       {
+        "name": "New York Jets",
+        "price": 1.24,
+        "point": 3.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.05,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 1.78,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2ea94ddf20f66432b9024fe2e2eaba5f",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Cincinnati Bengals",
+  "away_team": "Jacksonville Jaguars",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 2.75
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.5
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 3.66,
+        "point": -3.0
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.32,
+        "point": 3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.61,
+        "point": 49.5
+       },
+       {
+        "name": "Under",
+        "price": 1.54,
+        "point": 49.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 2.73
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.47
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Cincinnati Bengals",
+        "price": 3.46,
+        "point": -2.5
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 1.32,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.84,
+        "point": 50.5
+       },
+       {
+        "name": "Under",
+        "price": 1.44,
+        "point": 50.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "daf55e2df5341c007fee5a0fc5bbc2d4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Houston Texans",
+  "away_team": "Dallas Cowboys",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.31
+       },
+       {
+        "name": "Houston Texans",
+        "price": 1.6
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 1.9,
+        "point": 3.0
+       },
+       {
+        "name": "Houston Texans",
+        "price": 1.88,
+        "point": -3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.67,
+        "point": 47.5
+       },
+       {
+        "name": "Under",
+        "price": 1.47,
+        "point": 47.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.4
+       },
+       {
+        "name": "Houston Texans",
+        "price": 1.6
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 2.01,
+        "point": 2.5
+       },
+       {
+        "name": "Houston Texans",
+        "price": 1.85,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.72,
+        "point": 47.5
+       },
+       {
+        "name": "Under",
+        "price": 1.48,
+        "point": 47.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1b4f2e60ce83fa1d63a5dff83769d27c",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Philadelphia Eagles",
+  "away_team": "Los Angeles Rams",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.3
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.61
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.78,
+        "point": -2.5
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.44,
+        "point": 2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.32,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 1.6,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.35
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.64
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Rams",
+        "price": 2.99,
+        "point": -3.0
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 1.42,
+        "point": 3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.52,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": 1.56,
+        "point": 46.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "c327223d76a3b7b0db8c6c104442f44b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:05:00Z",
+  "home_team": "Minnesota Vikings",
+  "away_team": "Miami Dolphins",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.54
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.49
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.08,
+        "point": 10.5
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 7.89,
+        "point": -10.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.23,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 4.17,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.53
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 2.56
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 1.1,
+        "point": 10.5
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": 7.16,
+        "point": -10.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.28,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 3.75,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a7e7efb75a9792ac63480ae6328dca18",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.84
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.46
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.26,
+        "point": 3.0
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.68,
+        "point": -3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.15,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 1.39,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.87
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.46
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 2.26,
+        "point": 3.0
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 1.69,
+        "point": -3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 3.49,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": 1.34,
+        "point": 46.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "e0cbd266dcf997089203a1b33ba0333d",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "Las Vegas Raiders",
+  "away_team": "Kansas City Chiefs",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.81
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.97
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 2.82,
+        "point": -6.0
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.42,
+        "point": 6.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.29,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 3.54,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 1.84
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.94
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 2.7,
+        "point": -5.5
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 1.45,
+        "point": 5.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.29,
+        "point": 45.5
+       },
+       {
+        "name": "Under",
+        "price": 3.54,
+        "point": 45.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "96d2373cda647873b971f268482bced0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "Seattle Seahawks",
+  "away_team": "Los Angeles Chargers",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.73
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 2.12
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.29,
+        "point": 6.5
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.64,
+        "point": -6.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.35,
+        "point": 42.5
+       },
+       {
+        "name": "Under",
+        "price": 3.25,
+        "point": 42.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.69
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 2.15
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": 1.26,
+        "point": 7.0
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 3.84,
+        "point": -7.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 1.39,
+        "point": 43.5
+       },
+       {
+        "name": "Under",
+        "price": 3.0,
+        "point": 43.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "a73a76599a4f3422803e57bd8f61b626",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-05T00:20:00Z",
+  "home_team": "Carolina Panthers",
+  "away_team": "Detroit Lions",
+  "bookmakers": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-09-27T01:51:12Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.67
+       },
+       {
+        "name": "Detroit Lions",
+        "price": 2.3
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.44,
+        "point": 3.0
+       },
+       {
+        "name": "Detroit Lions",
+        "price": 2.93,
+        "point": -3.0
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:12Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.1,
+        "point": 49.5
+       },
+       {
+        "name": "Under",
+        "price": 1.79,
+        "point": 49.5
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-09-27T01:51:29Z",
+    "markets": [
+     {
+      "key": "h2h",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.65
+       },
+       {
+        "name": "Detroit Lions",
+        "price": 2.31
+       }
+      ]
+     },
+     {
+      "key": "spreads",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 1.49,
+        "point": 2.5
+       },
+       {
+        "name": "Detroit Lions",
+        "price": 2.74,
+        "point": -2.5
+       }
+      ]
+     },
+     {
+      "key": "totals",
+      "last_update": "2026-09-27T01:51:29Z",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": 2.12,
+        "point": 49.5
+       },
+       {
+        "name": "Under",
+        "price": 1.77,
+        "point": 49.5
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
